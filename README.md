@@ -107,50 +107,32 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
 
 ## Visualization
 
-### ziggurat layer
-<p align="center">
-  <image src="visualization/ziggurat layer/Ziggurat Layer (N=8).png" width="45%>
-  <image src="visualization/ziggurat layer/Ziggurat Layer (N=256).png" width="45%>
-</p>
+### Ziggurat Layer
 
-<p align="center">
-  <span style="display: inline-block; width: 45%; text-align: center;">
-    <em>N=8</em>
-  </span>
-  <span style="display: inline-block; width: 45%; text-align: center;">
-    <em>N=256</em>
-  </span>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="visualization/ziggurat layer/Ziggurat Layer (N=8).png" width="300px"/><br/><em>N = 8</em></td>
+    <td align="center"><img src="visualization/ziggurat layer/Ziggurat Layer (N=256).png" width="300px"/><br/><em>N = 256</em></td>
+  </tr>
+</table>
 
-### t-urng histogram
-<p align="center">
-  <img src="visualization/t-urng histogram/T-URNG Histogram with 1E+6 Sim.png" width="45%">
-  <img src="visualization/t-urng histogram/T-URNG Histogram with 1E+8 Sim.png" width="45%">
-</p>
+### T-URNG Histogram
 
-<p align="center">
-  <span style="display: inline-block; width: 45%; text-align: center;">
-    <em>1E+6 Simulations</em>
-  </span>
-  <span style="display: inline-block; width: 45%; text-align: center;">
-    <em>1E+8 Simulations</em>
-  </span>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="visualization/t-urng histogram/T-URNG Histogram with 1E+6 Sim.png" width="300px"/><br/><em>1E+6 Simulations</em></td>
+    <td align="center"><img src="visualization/t-urng histogram/T-URNG Histogram with 1E+8 Sim.png" width="300px"/><br/><em>1E+8 Simulations</em></td>
+  </tr>
+</table>
 
-### grng histogram
-<p align="center">
-  <image src="visualization/grng histogram/GRNG Histogram with 1E+6 Sim.png" width="45%">
-  <image src="visualization/grng histogram/GRNG Histogram with 1E+8 Sim.png" width="45%">
-</p>
+### GRNG Histogram
 
-<p align="center">
-  <span style="display: inline-block; width: 45%; text-align: center;">
-    <em>1E+6 Simulations</em>
-  </span>
-  <span style="display: inline-block; width: 45%; text-align: center;">
-    <em>1E+8 Simulations</em>
-  </span>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="visualization/grng histogram/GRNG Histogram with 1E+6 Sim.png" width="300px"/><br/><em>1E+6 Simulations</em></td>
+    <td align="center"><img src="visualization/grng histogram/GRNG Histogram with 1E+8 Sim.png" width="300px"/><br/><em>1E+8 Simulations</em></td>
+  </tr>
+</table>
 
 ---
 
