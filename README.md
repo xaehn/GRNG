@@ -1,12 +1,16 @@
 # Gaussian Random Number Generator
 
+<br/>
 ---
+<br/>
 
 ## Description
 
 A hardware-based Gaussian Random Number Generator implemented in Verilog with Python tools for LUT generation and visualization
 
+<br/>
 ---
+<br/>
 
 ## Features
 
@@ -16,7 +20,9 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
 - Verilog-vased hardware implementation of a Gaussian Random Number Generator (GRNG)
 - Develoment of individual testbenches for each hardware module to verify correctness
 
+<br/>
 ---
+<br/>
 
 ## Requirements
 
@@ -24,7 +30,9 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
 - Matplotlib 3.8.4
 - NumPy 1.26.4
 
+<br/>
 ---
+<br/>
 
 ## Directory Structure
 
@@ -103,7 +111,9 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
 └── .gitattributes
 ```
 
+<br/>
 ---
+<br/>
 
 ## Visualization
 
@@ -120,6 +130,8 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
   </tr>
 </table>
 
+<br/>
+
 ### T-URNG Histogram
 
 <table align="center">
@@ -132,6 +144,8 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
     <td align="center">1E+8 Simulations</td>
   </tr>
 </table>
+
+<br/>
 
 ### GRNG Histogram
 
@@ -146,7 +160,9 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
   </tr>
 </table>
 
+<br/>
 ---
+<br/>
 
 ## Exported Files
 
@@ -160,14 +176,20 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
 ...
 ```
 
+<br/>
+
 ### Count.txt
 ```text
 100000
 5308
 ```
 
+<br/>
 ---
+<br/>
 
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+<br/><br/><br/>
