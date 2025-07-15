@@ -99,7 +99,8 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
 │       └── GRNG Histogram with 1E+8 Sim.png
 ├── README.md
 ├── LICENSE
-└── .gitignore
+├── .gitignore
+└── .gitattributes
 ```
 
 ---
@@ -107,7 +108,7 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
 ## Visualization
 
 ### ziggurat layer
-<p align="center>
+<p align="center">
   <image src="visualization/ziggurat layer/Ziggurat Layer (N=8).png" width="45%>
   <image src="visualization/ziggurat layer/Ziggurat Layer (N=256).png" width="45%>
 </p>
@@ -122,9 +123,9 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
 </p>
 
 ### t-urng histogram
-<p align="center>
-  <image src="visualization/t-urng histogram/T-URNG Histogram with 1E+6 Sim.png" width="45%>
-  <image src="visualization/t-urng histogram/T-URNG Histogram with 1E+8 Sim.png" width="45%>
+<p align="center">
+  <img src="visualization/t-urng histogram/T-URNG Histogram with 1E+6 Sim.png" width="45%">
+  <img src="visualization/t-urng histogram/T-URNG Histogram with 1E+8 Sim.png" width="45%">
 </p>
 
 <p align="center">
@@ -137,9 +138,9 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
 </p>
 
 ### grng histogram
-<p align="center>
-  <image src="visualization/grng histogram/GRNG Histogram with 1E+6 Sim.png" width="45%>
-  <image src="visualization/grng histogram/GRNG Histogram with 1E+8 Sim.png" width="45%>
+<p align="center">
+  <image src="visualization/grng histogram/GRNG Histogram with 1E+6 Sim.png" width="45%">
+  <image src="visualization/grng histogram/GRNG Histogram with 1E+8 Sim.png" width="45%">
 </p>
 
 <p align="center">
