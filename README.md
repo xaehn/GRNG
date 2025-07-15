@@ -1,4 +1,6 @@
-# Gaussian Random Number Generator
+# Gaussian Random Number Generator (GRNG)
+
+<br/>
 
 ## Description
 
@@ -176,4 +178,4 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
-<br/><br/>
+<br/><br/><br/><br/><br/>
