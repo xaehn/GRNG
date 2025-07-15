@@ -1,0 +1,2 @@
+*.py linguist-language=Python
+*.v linguist-language=Verilog
