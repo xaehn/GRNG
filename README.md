@@ -1,16 +1,12 @@
 # Gaussian Random Number Generator
 
 <br/>
----
-<br/>
 
 ## Description
 
 A hardware-based Gaussian Random Number Generator implemented in Verilog with Python tools for LUT generation and visualization
 
-<br/>
----
-<br/>
+<br/><hr/><br/>
 
 ## Features
 
@@ -20,9 +16,7 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
 - Verilog-vased hardware implementation of a Gaussian Random Number Generator (GRNG)
 - Develoment of individual testbenches for each hardware module to verify correctness
 
-<br/>
----
-<br/>
+<br/><hr/><br/>
 
 ## Requirements
 
@@ -30,9 +24,7 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
 - Matplotlib 3.8.4
 - NumPy 1.26.4
 
-<br/>
----
-<br/>
+<br/><hr/><br/>
 
 ## Directory Structure
 
@@ -111,9 +103,7 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
 └── .gitattributes
 ```
 
-<br/>
----
-<br/>
+<br/><hr/><br/>
 
 ## Visualization
 
@@ -160,9 +150,7 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
   </tr>
 </table>
 
-<br/>
----
-<br/>
+<br/><hr/><br/>
 
 ## Exported Files
 
@@ -184,9 +172,7 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
 5308
 ```
 
-<br/>
----
-<br/>
+<br/><hr/><br/>
 
 ## License
 
