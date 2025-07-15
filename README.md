@@ -120,8 +120,12 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
 
 <table align="center">
   <tr>
-    <td align="center"><img src="visualization/t-urng histogram/T-URNG Histogram with 1E+6 Sim.png" width="300px"/><br/><em>1E+6 Simulations</em></td>
-    <td align="center"><img src="visualization/t-urng histogram/T-URNG Histogram with 1E+8 Sim.png" width="300px"/><br/><em>1E+8 Simulations</em></td>
+    <td align="center"><img src="visualization/t-urng histogram/T-URNG Histogram with 1E+6 Sim.png" width="300px"/></td>
+    <td align="center"><img src="visualization/t-urng histogram/T-URNG Histogram with 1E+8 Sim.png" width="300px"/></td>
+  </tr>
+  <tr>
+    <td align="center"><em>1E+6 Simulations</em></td>
+    <td align="center"><em>1E+8 Simulations</em></td>
   </tr>
 </table>
 
@@ -129,8 +133,8 @@ A hardware-based Gaussian Random Number Generator implemented in Verilog with Py
 
 <table align="center">
   <tr>
-    <td align="center"><img src="visualization/grng histogram/GRNG Histogram with 1E+6 Sim.png" width="300px"/><br/><em>1E+6 Simulations</em></td>
-    <td align="center"><img src="visualization/grng histogram/GRNG Histogram with 1E+8 Sim.png" width="300px"/><br/><em>1E+8 Simulations</em></td>
+    <td align="center"><img src="visualization/grng histogram/GRNG Histogram with 1E+6 Sim.png" width="40%"/><br/><em>1E+6 Simulations</em></td>
+    <td align="center"><img src="visualization/grng histogram/GRNG Histogram with 1E+8 Sim.png" width="40%"/><br/><em>1E+8 Simulations</em></td>
   </tr>
 </table>
 
